@@ -157,10 +157,22 @@ build_docker_image() {
     fi
 }
 
-# Function to run the honeypot server
 run_honeypot_server() {
-    ./run.sh
+    echo -e "${BLUE}Running the Docker container...${NC}"
+    if docker ps -q -f name=honeypot-server | grep -q .; then
+        echo -e "${ORANGE}Honeypot server container is already running.${NC}"
+    else
+        docker run -d --name honeypot-server -p 80:80 -p 21:21 -p 22:22 -p 23:23 -p 25:25 -p 110:110 honeypot-server
+        if [ $? -eq 0 ]; then
+            echo -e "${BLUE}Honeypot server is running.${NC}"
+        else
+            handle_error "There was an error starting the Docker container. Check the logs for more details."
+        fi
+    fi
+}
 
+# Function to verify that the honeypot server is running
+verify_honeypot_server() {
     if docker ps -q -f name=honeypot-server | grep -q .; then
         echo -e "${BLUE}Honeypot server is running.${NC}"
     else
