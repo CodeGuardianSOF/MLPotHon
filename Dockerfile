@@ -11,8 +11,9 @@ WORKDIR /app
 COPY requirements.txt ./
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
-# Copy the configuration file
-COPY cfg/honeypot_config.json /app/cfg/
+# Copy the configuration directory and malware directory
+COPY cfg /app/cfg/
+COPY malware /app/malware/
 
 # Copy the rest of the application code
 COPY . .
@@ -24,4 +25,4 @@ RUN mkdir -p logs
 EXPOSE 80 21 22 23 25 110
 
 # Run the honeypot server
-CMD ["python", "honeypot.py"]
+CMD ["python", "honeypot/honeypot.py"]
