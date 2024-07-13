@@ -1,0 +1,634 @@
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=944, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=640, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=804, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=384, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=892, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=752, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=640, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 54752)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=856, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 54752)> with selector
+Connection started from ('192.168.2.90', 54752) on port 21
+Handling connection from ('192.168.2.90', 54752)
+No data received. Closing connection from ('192.168.2.90', 54752)
+Connection from ('192.168.2.90', 54752) ended. Duration: 0.01 seconds
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=928, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=932, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=920, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=936, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=940, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=944, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=932, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 48710)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=884, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 48710)> with selector
+Connection started from ('192.168.2.90', 48710) on port 21
+Handling connection from ('192.168.2.90', 48710)
+No data received. Closing connection from ('192.168.2.90', 48710)
+Connection from ('192.168.2.90', 48710) ended. Duration: 0.00 seconds
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=400, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=804, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=852, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=712, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=716, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=680, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=712, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)>
+Accepted connection from ('192.168.2.90', 36172)
+Handler found for port 23. Registering handler.
+Registering connection <socket.socket fd=992, family=2, type=1, proto=0, laddr=('192.168.2.38', 23), raddr=('192.168.2.90', 36172)> with selector
+Connection started from ('192.168.2.90', 36172) on port 23
+Handling connection from ('192.168.2.90', 36172)
+Received data from ('192.168.2.90', 36172): b'\xff\xfd&\xff\xfb&\xff\xfd\x03\xff\xfb\x18\xff\xfb\x1f\xff\xfb \xff\xfb!\xff\xfb"\xff\xfb\'\xff\xfd\x05\xff\xfb#'
+Connection started from ('192.168.2.90', 36172) on port 23
+Connection from ('192.168.2.90', 36172) ended. Duration: 0.01 seconds
+Captured payload from ('192.168.2.90', 36172) stored in C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\captures/payloads/192.168.2.90_20240713_135133_753b775e1f9c0c5a11c9a646a34b3778.bin
+Metadata stored in C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\captures/sessions//192.168.2.90_20240713_135133.json
+Failed to start HoneypotServer: [WinError 10038] An operation was attempted on something that is not a socket
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=932, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=920, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=936, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=940, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=884, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=944, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=920, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 41216)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=896, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 41216)> with selector
+Connection started from ('192.168.2.90', 41216) on port 21
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=800, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=1000, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=996, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=1004, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=624, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=848, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=1000, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 42360)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=804, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 42360)> with selector
+Connection started from ('192.168.2.90', 42360) on port 21
+Handling connection from ('192.168.2.90', 42360)
+No data received. Closing connection from ('192.168.2.90', 42360)
+Connection from ('192.168.2.90', 42360) ended. Duration: 0.01 seconds
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=960, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=892, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=696, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=952, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=964, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=944, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=892, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 57790)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=972, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 57790)> with selector
+Connection started from ('192.168.2.90', 57790) on port 21
+Handling connection from ('192.168.2.90', 57790)
+No data received. Closing connection from ('192.168.2.90', 57790)
+Connection from ('192.168.2.90', 57790) ended. Duration: 0.02 seconds
+Attempting to accept connection on socket <socket.socket fd=892, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.38', 59044)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=972, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.38', 59044)> with selector
+Connection started from ('192.168.2.38', 59044) on port 21
+Handling connection from ('192.168.2.38', 59044)
+Error handling connection from ('192.168.2.38', 59044): [WinError 10054] An existing connection was forcibly closed by the remote host
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=704, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=912, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=956, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=160, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=864, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=860, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=968, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=628, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=592, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=620, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=840, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=972, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=628, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 43388)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=708, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 43388)> with selector
+Connection started from ('192.168.2.90', 43388) on port 21
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=900, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=904, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=948, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=932, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=940, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=928, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=904, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 43900)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=876, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 43900)> with selector
+Connection started from ('192.168.2.90', 43900) on port 21
+Handling connection from ('192.168.2.90', 43900)
+No data received. Closing connection from ('192.168.2.90', 43900)
+Connection from ('192.168.2.90', 43900) ended. Duration: 0.00 seconds
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=960, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=612, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=956, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=908, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=932, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=964, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=612, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 49462)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=968, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 49462)> with selector
+Connection started from ('192.168.2.90', 49462) on port 21
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=932, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=524, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=808, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=928, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=940, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=368, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=524, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 48146)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=924, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 48146)> with selector
+Connection started from ('192.168.2.90', 48146) on port 21
+Handling connection from ('192.168.2.90', 48146)
+No data received. Closing connection from ('192.168.2.90', 48146)
+Connection from ('192.168.2.90', 48146) ended. Duration: 0.01 seconds
+Attempting to accept connection on socket <socket.socket fd=524, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 36154)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=644, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 36154)> with selector
+Connection started from ('192.168.2.90', 36154) on port 21
+Handling connection from ('192.168.2.90', 36154)
+No data received. Closing connection from ('192.168.2.90', 36154)
+Connection from ('192.168.2.90', 36154) ended. Duration: 0.01 seconds
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=864, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=712, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=392, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=908, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=852, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=764, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=712, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 42402)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=944, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 42402)> with selector
+Connection started from ('192.168.2.90', 42402) on port 21
+Handling connection from ('192.168.2.90', 42402)
+No data received. Closing connection from ('192.168.2.90', 42402)
+Connection from ('192.168.2.90', 42402) ended. Duration: 0.01 seconds
+Attempting to accept connection on socket <socket.socket fd=712, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.38', 59283)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=692, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.38', 59283)> with selector
+Connection started from ('192.168.2.38', 59283) on port 21
+Handling connection from ('192.168.2.38', 59283)
+Error handling connection from ('192.168.2.38', 59283): [WinError 10054] An existing connection was forcibly closed by the remote host
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=924, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=888, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=916, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=912, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=820, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=920, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=924, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)>
+Accepted connection from ('192.168.2.38', 59345)
+Handler found for port 80. Registering handler.
+Registering connection <socket.socket fd=932, family=2, type=1, proto=0, laddr=('192.168.2.38', 80), raddr=('192.168.2.38', 59345)> with selector
+Connection started from ('192.168.2.38', 59345) on port 80
+Attempting to accept connection on socket <socket.socket fd=924, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)>
+Accepted connection from ('192.168.2.38', 59346)
+Handler found for port 80. Registering handler.
+Registering connection <socket.socket fd=936, family=2, type=1, proto=0, laddr=('192.168.2.38', 80), raddr=('192.168.2.38', 59346)> with selector
+Connection started from ('192.168.2.38', 59346) on port 80
+Handling connection from ('192.168.2.38', 59345)
+Received data from ('192.168.2.38', 59345): b'GET / HTTP/1.1\r\nHost: 192.168.2.38\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\n\r\n'
+Connection started from ('192.168.2.38', 59345) on port 80
+Connection from ('192.168.2.38', 59345) ended. Duration: 0.01 seconds
+Captured payload from ('192.168.2.38', 59345) stored in C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\captures/payloads/192.168.2.38_20240713_141809_6223564f2a9a329f34a0ca407283b1af.bin
+Metadata stored in C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\captures/sessions//192.168.2.38_20240713_141809.json
+Failed to start HoneypotServer: [WinError 10038] An operation was attempted on something that is not a socket
+Found handler file for port 80 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\80.py
+Loaded handler for port 80
+Found handler file for port 21 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\21.py
+Loaded handler for port 21
+Found handler file for port 22 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\22.py
+Loaded handler for port 22
+Found handler file for port 23 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\23.py
+Loaded handler for port 23
+Found handler file for port 25 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\25.py
+Loaded handler for port 25
+Found handler file for port 110 at C:\Users\aleks\OneDrive\Desktop\Honeypot\honeypot\../handlers\110.py
+Loaded handler for port 110
+Attempting to create socket for port 80
+Binding socket to 0.0.0.0:80
+Registering socket <socket.socket fd=928, family=2, type=1, proto=0, laddr=('0.0.0.0', 80)> with selector
+Listening on port 80...
+Attempting to create socket for port 21
+Binding socket to 0.0.0.0:21
+Registering socket <socket.socket fd=916, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)> with selector
+Listening on port 21...
+Attempting to create socket for port 22
+Binding socket to 0.0.0.0:22
+Registering socket <socket.socket fd=932, family=2, type=1, proto=0, laddr=('0.0.0.0', 22)> with selector
+Listening on port 22...
+Attempting to create socket for port 23
+Binding socket to 0.0.0.0:23
+Registering socket <socket.socket fd=936, family=2, type=1, proto=0, laddr=('0.0.0.0', 23)> with selector
+Listening on port 23...
+Attempting to create socket for port 25
+Binding socket to 0.0.0.0:25
+Registering socket <socket.socket fd=940, family=2, type=1, proto=0, laddr=('0.0.0.0', 25)> with selector
+Listening on port 25...
+Attempting to create socket for port 110
+Binding socket to 0.0.0.0:110
+Registering socket <socket.socket fd=944, family=2, type=1, proto=0, laddr=('0.0.0.0', 110)> with selector
+Listening on port 110...
+Attempting to accept connection on socket <socket.socket fd=916, family=2, type=1, proto=0, laddr=('0.0.0.0', 21)>
+Accepted connection from ('192.168.2.90', 60576)
+Handler found for port 21. Registering handler.
+Registering connection <socket.socket fd=924, family=2, type=1, proto=0, laddr=('192.168.2.38', 21), raddr=('192.168.2.90', 60576)> with selector
+Connection started from ('192.168.2.90', 60576) on port 21
+Handling connection from ('192.168.2.90', 60576)
+No data received. Closing connection from ('192.168.2.90', 60576)
+Connection from ('192.168.2.90', 60576) ended. Duration: 0.00 seconds

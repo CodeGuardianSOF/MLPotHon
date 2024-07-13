@@ -1,0 +1,4 @@
+Failed to start HoneypotServer: [WinError 10038] An operation was attempted on something that is not a socket
+Error handling connection from ('192.168.2.38', 59044): [WinError 10054] An existing connection was forcibly closed by the remote host
+Error handling connection from ('192.168.2.38', 59283): [WinError 10054] An existing connection was forcibly closed by the remote host
+Failed to start HoneypotServer: [WinError 10038] An operation was attempted on something that is not a socket

@@ -1,5 +1,7 @@
 {
     "host": "0.0.0.0",
     "ports": [80, 21, 22, 23, 25, 110],
-    "malware_storage_path": "malware/"
+    "allowed_networks": ["0.0.0.0/0"],
+    "payload_storage_path": "../captures/payloads/",
+    "session_metadata_path": "../captures/sessions/"
 }
